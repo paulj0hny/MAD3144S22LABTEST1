@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="mytext"></p>
+        <script>
+            document.getElementById("mytext").textContent="Hello World";
+            var element=document.createElement('h1');
+            element.textContent='Your Text'
+            document.body.appendChild(element)
+        </script>
+    </body>
+</html>
