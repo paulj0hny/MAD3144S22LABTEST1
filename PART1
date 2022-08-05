@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+	background-image: src="kerala.jpg";
+  background-color: #FFFFFF;
+}
+</style>
+<head>
+	<link rel="icon" href="google.png">
+	<title>
+		Paul Johny
+	</title>
+</head>
+<body>
+			<th>
+				<h1>KERALA</h1>
+			</th>
+
+			<th>
+				<h5>Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and backwaters, a network of canals. Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife. National parks like Eravikulam and Periyar, plus Wayanad and other sanctuaries, are home to elephants, langur monkeys and tigers.</h5>
+				<th>
+				<img width=200 src="kerala1.png" />
+			</th>
+			</th>
+
+			<th>
+				<h3>LAND</h3>
+			</th>
+			<th>
+				<h5>Kerala, southwestern coastal state of India. It is a small state, constituting only about 1 percent of the total area of the country. Kerala stretches for about 360 miles (580 km) along the Malabar Coast, varying in width from roughly 20 to 75 miles (30 to 120 km). It is bordered by the states of Karnataka (formerly Mysore) to the north and Tamil Nadu to the east and by the Arabian Sea to the south and west; it also surrounds Mahe, a segment of the state of Puducherry, on the northwestern coast. The capital is Thiruvananthapuram (Trivandrum).</h5>
+			</th>
+			<th>
+				<img width=200 src="kerala.jpg" />
+			</th>
+
+			<th>
+				<h3>CLIMATE</h3>
+			</th>
+			<th>
+				<h5>The climate of Kerala is equable and varies little from season to season. Throughout the year, daily temperatures usually rise from the low 70s F (low 20s C) into the 80s F (27 to 32 °C). The state is directly exposed to the southwest monsoon, which prevails from July through September, but it also receives rain from the reverse (northeast) monsoon, which blows in October and November. Precipitation averages about 115 inches (3,000 mm) annually statewide, with some slopes receiving more than 200 inches (5,000 mm).</h5>
+			</th>
+			<th>
+				<img width=200 src="kerala2.jpeg" />
+			</th>
+
+			
+			<th>
+				<h3>PEOPLE</h3>
+			</th>
+			<th>
+				<h5>The Malayalis are a group of people of mixed ethnic heritage who speak Malayalam, a Dravidian language; they constitute the majority of the population of Kerala. Most Malayalis are descendants of the early inhabitants of India, the so-called Dravidians (speakers of Dravidian languages), who were driven southward between about 2000 and 1500 BCE when the Aryans (speakers of Indo-Aryan languages) descended into the Indian subcontinent. Over the millennia, there has been much exchange between the two groups. Elements of Indo-Aryan ancestry remain strongest among the Nambudiri, a prominent caste of orthodox Hindus. Also living in Kerala is a significant minority of Tamils, a neighbouring people of Dravidian ancestry.</h5>
+			</th>
+			<th>
+				<img width=200 src="kerala3.jpeg" />
+			</th>
+
+			<th>
+				<h3>ECONOMY</h3>
+			</th>
+			<th>
+				<h5>Agriculture is the state’s main economic activity. Commercial plantings on less than half of the total land under cultivation earn a sizable amount of foreign exchange but have necessitated the importation of food for local consumption. Kerala’s principal cash crops are rubber, coffee, and tea, which are cultivated in plantations on the slopes of the foothills, as well as areca nut, cardamom, cashew nut, coconut, ginger, and pepper. The major food crops are rice, pulses (e.g., peas and beans), sorghum, and tapioca. Commercial poultry farming is well developed.</h5>
+			</th>
+
+		</tr>
+	</table>
+</body>
+</html>
